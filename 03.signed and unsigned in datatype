@@ -1,0 +1,5 @@
+TINYINT UNSIGNED(0 to 255) here there is only one value positive       
+if we write unsigned the range will change to positive eg:age
+
+
+TINYINT (-128 to 127) here there are two values negative and positive
